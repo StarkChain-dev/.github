@@ -1,2 +1,4 @@
 **Website:** **https://starkchain.dev** \
 [**GitHub**](https://github.com/StarkChain-dev) | [**Twitter**](https://twitter.com/stark_chain) | [**Instagram**](https://www.instagram.com/starkchain_dev/) | [**Reddit**](https://www.reddit.com/r/StarkChain/) | [**Discord**](https://discord.com/invite/Jvk6UQG9Ts) | [**Guild**](https://guild.xyz/starkchain) | [**Telegram**](https://t.me/StarkChainDev) | [**LinkedIn**](https://www.linkedin.com/showcase/stark-chain/)
+
+We are working on a computational intelligent blockchain network that is oriented towards telemetry, application development, and horizontal scaling. StarkChain is being developed by the Stark Drones Corporation, the Stark Global Initiative, and various of its entities and partnerships. We have contributed to the development of various blockchain projects before, and believe we can work on something that can have a massive impact on the community.
